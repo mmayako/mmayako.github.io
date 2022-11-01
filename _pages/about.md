@@ -14,20 +14,4 @@ I graduated with B.S. degrees in [physics](https://web.physics.udel.edu/) and ap
 
 Contact
 ------
-Feel free to look around the site. If anything piques your interest, academic or otherwise, please send me an email at mayako@udel.edu.
-
-
-test
-======
-more filler
-
-Getting started
-======
-
-even more
-------
-
-yes
-**Markdown generator**
-
-end
+Feel free to look around the site. If anything piques your interest, academic or otherwise, please send me an email at [mayako@udel.edu](mayako@udel.edu).
