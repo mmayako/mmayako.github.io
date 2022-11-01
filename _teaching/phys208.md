@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/phys208
 venue: "University of Delaware, Department of Physics and Astronomy"
-date: 2021
+date: 2021-01-04
 location: "Newark, DE"
 ---
 

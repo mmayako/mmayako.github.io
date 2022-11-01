@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/phys202
 venue: "University of Delaware, Department of Physics and Astronomy"
-date: 2022
+date: 2022-01-04
 location: "Newark, DE"
 ---
 

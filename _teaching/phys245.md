@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/phys245
 venue: "University of Delaware, Department of Physics and Astronomy"
-date: 2020
+date: 2020-08-26
 location: "Newark, DE"
 ---
 
