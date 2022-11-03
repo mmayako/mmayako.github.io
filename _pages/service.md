@@ -4,6 +4,8 @@ title: "Service Work"
 permalink: /service/
 author_profile: true
 ---
+Beyond academics, I have been heavily involved in physics based service projects. Working with undergrads has been the highlight of my time at UD and I plan on continuing this in grad school. 
+
 
 Society of Physics Students
 -----
