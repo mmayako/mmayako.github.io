@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "welcome"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Millicent Ayako"
 description              : &description "prospective graduate student"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "me"
+  name             : "millie"
   avatar           : "profile.png"
-  bio              : # "Prospective PhD Student"
+  bio              : "Prospective PhD Student"
   location         : "Newark, DE"
-  employer         : "The University of Delaware"
+  employer         : "University of Delaware"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ig8egPAAAAAJ&hl=en
 "
