@@ -15,6 +15,6 @@ As a CDEI committee member, I created channels for communication for all levels 
 
 Service Awards
 ----
-Department of Physics Student Leadership Award 2021 
-Department of Physics Student Leadership Award 2022 
-Department of Physics Climate and Inclusion Service Award 2022
+* Department of Physics Student Leadership Award 2021 
+* Department of Physics Student Leadership Award 2022 
+* Department of Physics Climate and Inclusion Service Award 2022
