@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Conferences"
-    url: /conferences/  
+  # - title: "Conferences"
+  #  url: /conferences/  
     
   - title: "Teaching"
     url: /teaching/  
@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   #- title: "Style Guide"
   #  url: /markdown/
