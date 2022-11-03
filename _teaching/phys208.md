@@ -9,4 +9,5 @@ location: "Newark, DE"
 ---
 
 Instructed physics labs, graded reports and exams, and held office hours for ~100 students.
+
 Taught in 2021 Winter (2 sections) and 2021 Spring (2 sections) totaling ~120 hours of work. 
