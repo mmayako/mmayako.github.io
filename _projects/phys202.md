@@ -1,8 +1,8 @@
 ---
 title: "PHYS202: Intro. Physics II (Algebra based)"
-collection: teaching
+collection: projects
 type: "Undergraduate Course"
-permalink: /teaching/phys202
+permalink: /projects/phys202
 venue: "University of Delaware, Department of Physics and Astronomy"
 date: 2022-01-04
 location: "Newark, DE"

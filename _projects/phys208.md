@@ -1,8 +1,8 @@
 ---
 title: "PHYS208: Intro. Physics II (Calc. based)"
-collection: teaching
+collection: projects
 type: "Undergraduate Course"
-permalink: /teaching/phys208
+permalink: /projects/phys208
 venue: "University of Delaware, Department of Physics and Astronomy"
 date: 2021-01-04
 location: "Newark, DE"
