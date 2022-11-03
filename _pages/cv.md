@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 
-<embed src="{{ site.baseurl }}/files/CV2022.pdf" width="600" height="700" type='application/pdf'>
+<embed src="https://mmayakp.github.io/files/CV2022.pdf" type="application/pdf" width="600px" height="500px" />
