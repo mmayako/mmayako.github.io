@@ -19,7 +19,4 @@ Feel free to look around the site. If anything piques your interest, academic or
 
 Where Are My Visitors From
 ------
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ggYrLceAjG68Ukni3raNIiDDvZeUXRgNtdQo3wvCgYU"></script>
-
-<!-- <a href="http://www.clustrmaps.com/map/Mmayako.github.io" title="Visit tracker for Mmayako.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=ggYrLceAjG68Ukni3raNIiDDvZeUXRgNtdQo3wvCgYU" /></a> -->
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=ggYrLceAjG68Ukni3raNIiDDvZeUXRgNtdQo3wvCgYU&co=6bb4e8'></script>
