@@ -28,15 +28,15 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $helvetica     // $sans-serif;
+$header-font-family         : $helvetica     // $sans-serif;
+$caption-font-family        : $helvetica     // $serif;
 
 /* type scale */
-$type-size-1                : 1.25em;  // ~20px
-$type-size-2                : 1.25em;   // ~20px
-$type-size-3                : 1.25em;   // ~20px
-$type-size-4                : 1.25em;   // ~20px
+$type-size-1                : 1.15em;  // ~20px
+$type-size-2                : 1.15em;   // ~20px
+$type-size-3                : 1.15em;   // ~20px
+$type-size-4                : 1.15em;   // ~20px
 $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px

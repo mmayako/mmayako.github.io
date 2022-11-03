@@ -12,3 +12,6 @@ Here is a collection of scholarly articles I have published. They are organized 
 
 {% include base_path %}
 
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
