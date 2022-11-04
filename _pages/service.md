@@ -12,7 +12,7 @@ Beyond academics, I have been heavily involved in physics based service projects
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% for post in site.service reversed %}
   {% include archive-single.html %}
 {% endfor %}
 

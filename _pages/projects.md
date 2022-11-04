@@ -12,6 +12,6 @@ Below is a collection of my past research projects in reverse chronological orde
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% for post in site.projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
