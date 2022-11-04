@@ -4,8 +4,6 @@ title: "Service Projects"
 permalink: /service/
 author_profile: true
 ---
-Beyond academics, I have been heavily involved in physics based service projects. Working with undergrads has been the highlight of my time at UD and I plan on continuing this in grad school. 
-
 ### UD Society of Physics Students
 I served as president of UD’s Society of Physics Students (SPS) for two years. As president, I prioritized reducing the barriers of entry that come with many STEM programs. For example, I collaborated with the Climate, Diversity, Equity, and Inclusivity (CDEI) committee to cover the costs associated with undergraduate research involvement.
 

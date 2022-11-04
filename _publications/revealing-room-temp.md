@@ -11,5 +11,3 @@ citation: 'Chen, H. et al. (2022). &quot;Revealing room temperature ferromagneti
 ---
 
 [Download paper here](http://mmayako.github.io/files/revealing-room-temp.pdf)
-
-Recommended citation: 'Chen, H. et al. (2022). &quot;Revealing room temperature ferromagnetism in exfoliated Fe_5GeTe_2 flakes with quantum magnetic imaging.&quot; <i>2D Mater. 9 025017</i>.'
