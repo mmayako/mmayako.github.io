@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume/
 
-Here is a link to my [CV (last updated 11/2/2022).](https://drive.google.com/file/d/1hjB1IGHeByhkZhfaukt_z1zll-aKWfPZ/view?usp=share_link)
+Here is a link to my [CV (last updated 11/2/2022).](http://mmayako.github.io/files/CV2022.pdf)

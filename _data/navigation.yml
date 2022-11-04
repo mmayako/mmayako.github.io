@@ -16,7 +16,7 @@ main:
     url: /service/    
     
   - title: "CV"
-    url: /cv/
+    url: /http://mmayako.github.io/files/CV2022.pdf
 
   #- title: "Blog Posts"
   #  url: /year-archive/
