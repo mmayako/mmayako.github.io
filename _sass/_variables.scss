@@ -33,14 +33,14 @@ $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
-$type-size-1                : 2.5em;  
+$type-size-1                : 2.0em;  
 $type-size-2                : 1.75em;   
 $type-size-3                : 1.5em;   
 $type-size-4                : 1.25em;   // ~20px
-$type-size-5                : 1em;      // ~16px
-$type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+$type-size-5                : 0.75em;      // ~16px
+$type-size-6                : 0.65em // 0.75em;   // ~12px
+$type-size-7                : 0.5em // 0.6875em; // ~11px
+$type-size-8                : 0.3em // 0.625em;  // ~10px
 
 
 /*
@@ -50,7 +50,7 @@ $type-size-8                : 0.625em;  // ~10px
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%); // mix(#000, $gray, 60%);
-$light-gray                 : mix(rgb(0, 166, 255), $gray, 50%); // mix(#fff, $gray, 50%);
+$light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
@@ -60,7 +60,7 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+$primary-color              : mix(rgb(0, 166, 255), $gray, 50%); // 7a8288
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
