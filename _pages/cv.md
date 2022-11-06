@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /cv/
+permalink: http://mmayako.github.io/files/CV2022.pdf
 author_profile: true
 ---
  Test
