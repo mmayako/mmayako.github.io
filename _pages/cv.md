@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /cv
+permalink: /cv/
 author_profile: true
 ---
  Test
