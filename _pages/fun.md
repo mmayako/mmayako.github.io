@@ -1,6 +1,6 @@
 ---
 permalink: /fun/
-title: ""
+title: "What I do in my free time"
 excerpt: #"What I do in my free time"
 author_profile: true
 redirect_from: 
