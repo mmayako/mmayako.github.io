@@ -12,6 +12,7 @@ Hello! I am Millie Ayako and this is a sort of digital diary of my (budding) car
 
 I graduated with B.S. degrees in [physics](https://web.physics.udel.edu/) and [applied mathematics](https://www.mathsci.udel.edu/) from the [University of Delaware](https://www.udel.edu/). As an undergrad, I conducted research on opto-electronic and quantum materials with [Dr. Zubaer Hossain](http://www.mdzubaerhossain.com/) and [Dr. Mark Ku](https://www.mkulab.com/). I also had a short but very enjoyable stint on a computational oncology project studying colorectal cancer with [Dr. Gilberto Schleiniger](https://sites.udel.edu/schleini/contact/) and [Dr. Bruce Boman](https://christianacare.org/people/bruce-m-boman-md/).
 
+
 ### Contact Me
 Feel free to look around the site. If anything piques your interest, academic or otherwise, please send me an email at [mayako@udel.edu](mayako@udel.edu).
 
