@@ -15,7 +15,4 @@ My family is originally from Kenya and I've been able to visit family there. Whe
 
 When I'm at home, I like playing [Animal Crossing](http://mmayako.github.io/files/ACMe.PNG). 
 
-[Test](http://mmayako.github.io/files/CV2022.pdf)
-[Animal Crossing](http://mmayako.github.io/files/ACMe.PNG)
-
 I've also developed a small obsession with ceramics after taking an art class at UD. My magnum opus so far has been a [25 pound, two foot tall garden frog](http://mmayako.github.io/files/CeramicsFrog3.jpg). 
