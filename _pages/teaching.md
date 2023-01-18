@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching and Professional Service"
+title: 
 permalink: /teaching/
 author_profile: true
 redirect_from: 
