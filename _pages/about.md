@@ -12,9 +12,11 @@ Hello! I am Millie Ayako and this is a sort of digital diary of my (budding) car
 
 I graduated with B.S. degrees in [physics](https://web.physics.udel.edu/) and [applied mathematics](https://www.mathsci.udel.edu/) from the [University of Delaware](https://www.udel.edu/). As an undergrad, I conducted research on opto-electronic and quantum materials with [Dr. Zubaer Hossain](http://www.mdzubaerhossain.com/) and [Dr. Mark Ku](https://www.mkulab.com/). I also had a short but very enjoyable stint on a computational oncology project studying colorectal cancer with [Dr. Gilberto Schleiniger](https://sites.udel.edu/schleini/contact/) and [Dr. Bruce Boman](https://christianacare.org/people/bruce-m-boman-md/).
 
-I am currently interested in photonic materials and devices and their applications to computing and sensing problems. I am particularly interested in applications to optical computing as well as biomedical sensors. I am currently applying to graduate programs for Fall 2023. 
+I am currently interested in opto-electronic materials and devices and their applications to computing, sensing, and energy capture problems. I am particularly interested in applications to optical computing as well as biomedical sensors. I am currently applying to graduate programs for Fall 2023. 
 
-Feel free to get in touch if anything here piques your interest! If you are interested in applying for a PhD and would like to hear about my application process, [check out this page](https://mmayako.github.io/gradguide). I am happy to do my part to make academia more diverse and equitable. If you’d like to learn about me, [check out this page](https://mmayako.github.io/fun/). 
+Feel free to get in touch if anything here piques your interest! 
+<!-- 
+If you are interested in applying for a PhD and would like to hear about my application process, [check out this page](https://mmayako.github.io/gradguide). I am happy to do my part to make academia more diverse and equitable. If you’d like to learn about me, [check out this page](https://mmayako.github.io/fun/).  -->
 
 
 ### Recent News 
