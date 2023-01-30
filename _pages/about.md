@@ -24,8 +24,8 @@ If you are interested in applying for a PhD and would like to hear about my appl
 
 **Nov. 6-9, 2022** - I was able to attend my first in person NSBP conference! 
 
-### Recent Tweets
-<a class="twitter-timeline" href="https://twitter.com/millieayako?ref_src=twsrc%5Etfw">Tweets by millieayako</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- ### Recent Tweets
+<a class="twitter-timeline" href="https://twitter.com/millieayako?ref_src=twsrc%5Etfw">Tweets by millieayako</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 Where Are My Visitors From
 ------
