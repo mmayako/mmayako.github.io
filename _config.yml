@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Millicent Ayako"
 description              : &description "prospective graduate student"
-url                      : https://mmayako.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ayako.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mmayako/mmayako.github.io"
+repository               : "mmayako/ayako.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "millie ayako (she/her)"
   avatar           : "profile.jpg"
-  bio              : "Prospective PhD Student"
+  bio              : "Incoming PhD Student"
   location         : 
   employer         : "University of Delaware"
   pubmed           : 
