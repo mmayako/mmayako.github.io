@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Millicent Ayako"
 description              : &description "incoming graduate student"
-url                      : https://mmayako.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mmayako.github.io     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmayako/mmayako.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "millie ayako (she/her)"
   avatar           : "profile.jpg"
-  bio              : "Incoming PhD Student"
+  bio              : "incoming PhD Student"
   location         : 
   employer         : "University of Delaware"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ig8egPAAAAAJ&hl=en
-"
-  email            : mayako@udel.edu
+  googlescholar    : "https://scholar.google.com/citations?user=ZAgHYrkAAAAJ&hl=en"
+  email            : ayako@umd.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
