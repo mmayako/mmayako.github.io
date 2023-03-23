@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Publications 
-Chen, H. et al. (2022). &quot;Revealing room temperature ferromagnetism in exfoliated Fe_5GeTe_2 flakes with quantum magnetic imaging.&quot; <i>2D Mater. 9 025017</i>. 
->  [`View PDF`](http://mmayako.github.io/files/revealing-room-temp.pdf)     [`View Article`](https://iopscience.iop.org/article/10.1088/2053-1583/ac57a9)
+Chen, H. et al. (2022). &quot;Revealing room temperature ferromagnetism in exfoliated Fe_5GeTe_2 flakes with quantum magnetic imaging.&quot; <i>2D Mater. 9 025017</i>. [`View PDF`](http://mmayako.github.io/files/revealing-room-temp.pdf)     [`View Article`](https://iopscience.iop.org/article/10.1088/2053-1583/ac57a9)
 
 
 ## Undergraduate Research Projects
