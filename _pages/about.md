@@ -22,6 +22,7 @@ Feel free to get in touch if anything here piques your interest!
 
 ### Recent News 
 **March 22, 2023** - I attended my first ever NASA Space Grant Synposium as an event organizer. I had a great time and plan on staying involved in the program. 
+
 **March 15, 2023** - I've formally accepted my offer from the University of maryland, College Park for my PhD
 
 **Dec. 1, 2022** - All my applications are in so now I just need to wait and see what happens.
