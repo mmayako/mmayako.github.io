@@ -8,12 +8,12 @@ redirect_from:
 ---
 ## Teaching 
 ### University of Delaware, Department of Physics and Astronomy 
-I have been a physics laboratory teaching assistant for over two years., i nstructed labs for several electricity and magnetism courses developed for students ranging from algebra based physics to calculus based electrical engineering. Teaching duties included preparing lectures introducing physics concepts, grading lab reports and exams, and creating new lab manuals and rubrics to aid in the transition to online learning due to COVID-19. 
+I have been a physics laboratory teaching assistant for over two years. I've instructed labs for several electricity and magnetism courses developed for students ranging from algebra based physics to calculus based electrical engineering. Teaching assistant duties included preparing lectures introducing physics concepts, grading lab reports and exams, and creating new lab manuals and grading rubrics to aid in the transition to online learning due to COVID-19. 
 
 ### Courses Taught
-* PHYS202: Intro. Physics II (Algebra) – 2022 Winter (1 section), 2022 Spring (2 sections) ~90 hours of work
-* PHYS208: Intro. Physics II (Calc) – 2021 Winter (2 sections), 2021 Spring (2 sections) ~120 hours of work
-* PHYS245: Electricity and Electronics for Engineers  – 2020 Fall (2 sections), 2021 Fall (3 sections) ~150 hours of work
+* PHYS202: Intro. Physics II (Algebra based) – 3 Sections
+* PHYS208: Intro. Physics II (Calculus based) – 2021 Winter 4 Sections
+* PHYS245: Electricity and Electronics for Engineers (Calculus based) – 5 Sections
 
 
 ## Service and Outreach
@@ -27,7 +27,7 @@ I have been a physics laboratory teaching assistant for over two years., i nstru
 ### Department of Physics and Astronomy, Climate, Diversity, Equity, and Inclusivity Committee
 As a CDEI committee member, I created channels for communication for all levels of the department through climate surveys and reporting resources, as well as provided other physics committees with quantitative CDEI consulting. These efforts resulted in changes such as more diverse colloquium speakers, greater student involvement in SPS and the Physics and Astronomy Graduate Student Society, stronger channels of communication between various department members, and more holistic interviews for candidates on all levels.
 > ### Faculty Searches
-> I participated in two faculty searches in 2021 and will be participating in 4 searches this winter. I will be interviewing candidates as part of the CDEI committee to advise the faculty search committees. This is a really unique experience and I’ve learned a lot by being on the “other side of the glass”. 
+> I participated in six faculty searches from 2021-2023. I, along with other CDEI members, interviewed faculty candidates to advise the faculty search committees. This was a really unique experience and I’ve learned a lot about academic job hunts by being on the other side of the table. 
 
 
 ### Society of Physics Students
