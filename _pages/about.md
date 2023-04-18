@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am Millie Ayako and this is a sort of digital diary of my (budding) career as a physicist. 
 
-I am an incoming ECE PhD Student at the University of Maryland, College Park, where I am studying electrophysics. My research is supported by the [Clark Doctoral Fellowship](https://eng.umd.edu/clark-doctoral-fellows). I'm advised by [Prof. Yanne K. Chembo]. I study quantum communication and have a budding interest in error correction and quantum algorithms. 
+I am an incoming ECE PhD Student at the University of Maryland, College Park, where I am studying electrophysics. My research is supported by the [Clark Doctoral Fellowship](https://eng.umd.edu/clark-doctoral-fellows). I'm advised by [Prof. Yanne K. Chembo](https://ece.umd.edu/clark/faculty/1031/Yanne-Chembo). I study quantum communication and have a budding interest in error correction and quantum algorithms. 
 
 I graduated with B.S. degrees in [physics](https://web.physics.udel.edu/) and [applied mathematics](https://www.mathsci.udel.edu/) from the [University of Delaware](https://www.udel.edu/) in May 2022. As an undergrad, I conducted research on opto-electronic and quantum materials with [Dr. Zubaer Hossain](http://www.mdzubaerhossain.com/) and [Dr. Mark Ku](https://www.mkulab.com/). I also had a short but very enjoyable stint on a computational oncology project studying colorectal cancer growth with [Dr. Gilberto Schleiniger](https://sites.udel.edu/schleini/contact/) and [Dr. Bruce Boman](https://christianacare.org/people/bruce-m-boman-md/).
 
