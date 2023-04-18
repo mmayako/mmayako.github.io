@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am Millie Ayako and this is a sort of digital diary of my (budding) career as a physicist. 
 
-I am an incoming PhD Student at the University of Maryland, College Park, where I am studying electrophysics through the [Department of Electrical Engineering](https://ece.umd.edu/). I am also a [Clark Doctoral Fellow](https://eng.umd.edu/clark-doctoral-fellows). I'm advised by [Prof. Yanne K. Chembo]. I intend on studying quantum communication. I have a budding interest in error correction and quntum algorithms. 
+I am an incoming PhD Student at the University of Maryland, College Park, where I am studying electrophysics through the [Department of Electrical Engineering](https://ece.umd.edu/). My research is supported by the [Clark Doctoral Fellowship](https://eng.umd.edu/clark-doctoral-fellows). I'm advised by [Prof. Yanne K. Chembo]. I study quantum communication and have a budding interest in error correction and quantum algorithms. 
 
 I graduated with B.S. degrees in [physics](https://web.physics.udel.edu/) and [applied mathematics](https://www.mathsci.udel.edu/) from the [University of Delaware](https://www.udel.edu/) in May 2022. As an undergrad, I conducted research on opto-electronic and quantum materials with [Dr. Zubaer Hossain](http://www.mdzubaerhossain.com/) and [Dr. Mark Ku](https://www.mkulab.com/). I also had a short but very enjoyable stint on a computational oncology project studying colorectal cancer growth with [Dr. Gilberto Schleiniger](https://sites.udel.edu/schleini/contact/) and [Dr. Bruce Boman](https://christianacare.org/people/bruce-m-boman-md/).
 
@@ -23,7 +23,7 @@ Feel free to get in touch if anything here piques your interest!
 ### Recent News 
 **March 22, 2023** - I attended my first ever NASA Space Grant Synposium as an event organizer. I had a great time and plan on staying involved in the program. 
 
-**March 15, 2023** - I've formally accepted my offer from the University of maryland, College Park for my PhD
+**March 15, 2023** - I've formally accepted my offer from the University of Maryland, College Park for my PhD
 
 **Dec. 1, 2022** - All my applications are in so now I just need to wait and see what happens.
 
