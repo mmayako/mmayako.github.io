@@ -12,17 +12,9 @@ I am an ECE PhD Student at the University of Maryland, College Park, where I am 
 
 I graduated with B.S. degrees in [physics](https://web.physics.udel.edu/) and [applied mathematics](https://www.mathsci.udel.edu/) from the [University of Delaware](https://www.udel.edu/). As an undergrad, I conducted research on opto-electronic and quantum materials with [Dr. Zubaer Hossain](http://www.mdzubaerhossain.com/) and [Dr. Mark Ku](https://www.mkulab.com/). I also had a short but very enjoyable stint on a computational oncology project studying colorectal cancer growth with [Dr. Gilberto Schleiniger](https://sites.udel.edu/schleini/research-interests/) and [Dr. Bruce Boman](https://christianacare.org/people/bruce-m-boman-md/).
 
-If you are interested in applying for a PhD and would like to hear about my application process, feel free to ask me about it. I am happy to do my part to make academia more diverse and equitable. If you’d like to learn about me, [check out this page](https://mmayako.github.io/fun/). 
+If you are interested in applying for a PhD and would like to hear about my application process, feel free to ask me about it! I am happy to do my part to make academia more diverse and equitable. If you’d like to learn about me, [check out this page](https://mmayako.github.io/fun/). 
 
 Feel free to get in touch if anything here piques your interest! 
-
-
-
-### Recent News 
-**March 22, 2023** - I attended my first ever NASA Space Grant Symposium as an event organizer. I had a great time and plan on staying involved in the program in MD : ) 
-
-**March 15, 2023** - I've formally accepted my offer from the UMD-CP for my PhD!!
-
 
 
 Where Are My Visitors From
