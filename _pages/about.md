@@ -27,4 +27,4 @@ Feel free to get in touch if anything here piques your interest!
 
 Where Are My Visitors From
 ------
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=ggYrLceAjG68Ukni3raNIiDDvZeUXRgNtdQo3wvCgYU&co=6bb4e8'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ggYrLceAjG68Ukni3raNIiDDvZeUXRgNtdQo3wvCgYU&cl=ffffff&w=a"></script>
